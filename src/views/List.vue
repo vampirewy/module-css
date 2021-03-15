@@ -6,11 +6,11 @@
 
 <script>
 export default {
-  name: "List",
+  name: 'List',
   data() {
-    return {};
-  }
-};
+    return {}
+  },
+}
 </script>
 
 <style lang="scss" scoped></style>
